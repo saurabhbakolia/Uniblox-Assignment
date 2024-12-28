@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fff;
+  color: black;
+}
+
+.chakra-table__root .chakra-table__body .chakra-table__row td div {
+  margin-block: 12px;
+}
